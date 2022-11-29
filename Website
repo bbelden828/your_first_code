@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:cream;">
 
-<h1>Hope For The Displaced</h1>
-<p>Less Fortunate Does Not Mean Less Capable!</p>
+<img src="displaced1.jpeg" width="400" height="200">
+<h1 style="background-color:powderblue;">Hope For The Displaced</h1>
+<p style="background-color:powderblue;">Less Fortunate Does Not Mean Less Capable!</p>
 
-<h2>Goals of our program.</h1>
+<img src="counseling.webp" width="400" height="200">
+<h2 style="background-color:powderblue;">Goals of our program.</h1>
 <p>Provide career mentoring</p>
 <p>Provide a safe place to rest, heal and grow</p>
 <p>Support the participant with finding a career</p>
@@ -13,7 +15,8 @@
 <p>Support the participant in finding and maintaining housing</p>
 <p>Assisting the participant in getting insured and finding both physical and mental healthcare</p>
 
-<h3>Benefits of our program.</h3>
+<img src="volunteer.webp" width="200" height="200">
+<h3 style="background-color:powderblue;">Benefits of our program.</h3>
 <p>Spa and Styling services</p>
 <p>Resume building assistance</p>
 <p>Transportation to interviews and work</p>
@@ -23,11 +26,18 @@
 <p>Housing Assistance</p>
 <p>Parenting Classes</p>
 
-<h4>What happens after?</h4>
+<img src="success.webp" width="400" height="200">
+<h4 style="background-color:powderblue;">What happens after?</h4>
 <p>12 monthly accountability check ins</p>
 <p>12 months of financial counseling</p>
 <p>Transfer to state assisted child care</p>
 <p>Set the participant up with reliable transportation</p>
+
+<h5 style="background-color:powderblue;">You Can Find Additional Assistance Below!</h5>
+<p><a href="https://oklahoma.gov/ohca/individuals/mysoonercare/apply-for-soonercare-online/where-to-apply.html">SoonerCare Application</a>
+<p><a href="https://www.opencounseling.com/oklahoma/tulsa">Free and Sliding Scale Health Services</a>
+
+
 
 </body>
 </html>
